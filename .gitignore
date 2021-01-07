@@ -1,0 +1,13 @@
+*.txt
+.classpath
+.classpath
+
+lib/
+bin/
+doc/
+.settings/
+
+.DS_Store
+.project
+ENCDA.tcp
+
